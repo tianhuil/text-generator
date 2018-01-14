@@ -1,0 +1,7 @@
+name: text-generator
+channels:
+- defaults
+dependencies:
+- matplotlib
+- numpy
+- keras
